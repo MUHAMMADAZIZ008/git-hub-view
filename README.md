@@ -1,11 +1,11 @@
-# 🌟 Ismoil Muhiddinov  
+# 🌟 Muhammadaziz G'ulomov
 **Full Stack Developer** | Building the Future of the Web  
 ![Animated Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 ### 📊 GitHub Stats
-![Ismoil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhiddinovismoil&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiddinovismoil&layout=compact&theme=radical)
+![Ismoil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADAZIZ008&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADAZIZ008&layout=compact&theme=radical)
 
 ---
 
@@ -23,14 +23,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git" />
 </p>
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhiddinovismoil&theme=react-dark&hide_border=true&area=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADAZIZ008&theme=react-dark&hide_border=true&area=true)
 ### 🤝 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ismoil-muhiddinov)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/ismoildev)
 
-### Contributions
-![snake_gif](https://github.com/muhiddinovismoil/muhiddinovismoil/blob/output/github-contribution-grid-snake.svg)
-<!---
-muhiddinovismoil/muhiddinovismoil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
